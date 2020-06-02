@@ -4,7 +4,7 @@ import java.util.*;
 
   
 
-class GFG { 
+class Sum { 
 
   
 
